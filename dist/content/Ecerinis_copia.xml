@@ -17,11 +17,11 @@
                <witness xml:id="witM">
                   <msDesc>
                      <msIdentifier>
-                        <country>Italias</country>
-                        <settlement>Firenze</settlement>
-                        <repository>Bibl. Naz. Centrale</repository>
-                        <collection>Magl.</collection>
-                        <idno>VII 926</idno>
+                        <country>Italia</country>
+                        <settlement>Roma</settlement>
+                        <repository>Bibl. Apostolica Vaticana</repository>
+                        <collection>Urbinate</collection>
+                        <idno>lat. 355</idno>
                      </msIdentifier>
                      <head>
                         <origDate>1340-1360</origDate>
