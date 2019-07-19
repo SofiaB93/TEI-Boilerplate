@@ -14,5 +14,10 @@ speaker {
 }
 
 seg {
-    
+    background-color: grey
+}
+
+castList {
+    text-align: right;
+    font-size: 75% 
 }
