@@ -47,10 +47,37 @@ stage {
 }
 
 gloss {
-    color: fuchsia;
     font-style: italic
 }
 
 gloss[type=argumentum] { 
-  background-color: yellow;
+  color: fuchsia
+}
+
+gloss[type=vitaAuct] { 
+  color: green
+}
+
+gloss[type=Epigramma] { 
+  color: blue
+}
+
+gloss[type=inquirenda] { 
+  color: gray
+}
+
+gloss[type=storia] { 
+  color: maroon
+}
+
+gloss[type=divisio] { 
+  color: orange
+}
+
+gloss[type=metaletteratura] { 
+  color: purple
+}
+
+gloss[type=metrica] { 
+  color: pink
 }
