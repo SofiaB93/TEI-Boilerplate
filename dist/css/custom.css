@@ -42,5 +42,6 @@ note {
 
 stage {
     display:block;
-    color: blue
+    color: blue;
+    font-style: normal
 }
