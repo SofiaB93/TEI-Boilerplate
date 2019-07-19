@@ -34,4 +34,8 @@ seg {
     color: green
 }
 
-note {}
+note {
+    padding: 0px;
+    border: hidden;
+    background-color: white
+}
