@@ -81,3 +81,9 @@ gloss[type=metaletteratura] {
 gloss[type=metrica] { 
   color: pink
 }
+
+
+note[target="."] { 
+  color: green;
+  text-align: end
+}
