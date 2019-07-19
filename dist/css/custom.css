@@ -21,3 +21,8 @@ castList {
     text-align: right;
     font-size: 75% 
 }
+
+rdg {
+    display: block;
+    text-align:right
+}
