@@ -82,8 +82,12 @@ gloss[type=metrica] {
   color: pink
 }
 
+note {
+    border:none;
+    
+}
 
 note[target="."] { 
   color: green;
-  text-align: end
+  text-align: right
 }
