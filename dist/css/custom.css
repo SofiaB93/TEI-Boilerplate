@@ -1,7 +1,18 @@
 /* Place project-specific CSS here */
 
+teiHeader {
+    display: none
+}
+
 l {
-    display:block
+    display:block;
     color: blue
 }
 
+speaker {
+    font-weight: bold
+}
+
+seg {
+    
+}
