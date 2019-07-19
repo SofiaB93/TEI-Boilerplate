@@ -84,10 +84,11 @@ gloss[type=metrica] {
 
 note {
     border:none;
-    
+    background-color: inherit;
+    color: green;
+    text-align: right
 }
 
 note[target="."] { 
-  color: green;
-  text-align: right
+  
 }
