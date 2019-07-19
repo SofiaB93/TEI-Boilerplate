@@ -39,3 +39,8 @@ note {
     border: hidden;
     background-color: white
 }
+
+stage {
+    display:block;
+    color: blue
+}
