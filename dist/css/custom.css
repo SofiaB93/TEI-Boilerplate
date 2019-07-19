@@ -46,3 +46,7 @@ stage {
     font-style: normal
 }
 
+gloss {
+    color: fuchsia;
+    font-style: italic
+}
