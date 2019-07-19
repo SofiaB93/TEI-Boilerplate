@@ -14,7 +14,7 @@ speaker {
 }
 
 seg {
-    background-color: grey
+    background-color: aliceblue
 }
 
 castList {
@@ -34,6 +34,4 @@ seg {
     color: green
 }
 
-.xml:id {
-    
-}
+note {}
