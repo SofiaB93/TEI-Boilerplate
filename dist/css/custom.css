@@ -50,3 +50,7 @@ gloss {
     color: fuchsia;
     font-style: italic
 }
+
+gloss[type=argumentum] { 
+  background-color: yellow;
+}
