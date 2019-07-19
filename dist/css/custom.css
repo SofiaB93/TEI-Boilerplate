@@ -22,7 +22,10 @@ castList {
     font-size: 75% 
 }
 
-rdg {
-    display: block;
-    text-align:right
+app {
+    display: inline
+}
+
+lem {
+    color: red
 }
